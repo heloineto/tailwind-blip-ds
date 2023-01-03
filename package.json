@@ -1,6 +1,6 @@
 {
     "name": "tailwind-blip-ds",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A Tailwind CSS plugin for including the color pallet of blip design system.",
     "main": "src/index.js",
     "files": [
