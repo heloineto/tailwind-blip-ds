@@ -1,1 +1,1 @@
-# Tailwind CSS <-> Blip Design System
+# Blip Design System - Tailwind CSS Plugin
