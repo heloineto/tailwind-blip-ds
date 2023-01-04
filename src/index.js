@@ -62,6 +62,56 @@ module.exports = plugin(() => {}, {
                 'neutral-light-whisper': '#f3f6fa',
                 'neutral-light-breeze': '#f8fbfb',
                 'neutral-light-snow': '#ffffff'
+            },
+            fontSize: {
+                'fs-10': [
+                    '10px',
+                    {
+                        lineHeight: '16px'
+                    }
+                ],
+                'fs-12': [
+                    '12px',
+                    {
+                        lineHeight: '20px'
+                    }
+                ],
+                'fs-14': [
+                    '14px',
+                    {
+                        lineHeight: '22px'
+                    }
+                ],
+                'fs-16': [
+                    '16px',
+                    {
+                        lineHeight: '24px'
+                    }
+                ],
+                'fs-20': [
+                    '20px',
+                    {
+                        lineHeight: '28px'
+                    }
+                ],
+                'fs-24': [
+                    '24px',
+                    {
+                        lineHeight: '32px'
+                    }
+                ],
+                'fs-32': [
+                    '32px',
+                    {
+                        lineHeight: '40px'
+                    }
+                ],
+                'fs-40': [
+                    '40px',
+                    {
+                        lineHeight: '48px'
+                    }
+                ]
             }
         }
     }
