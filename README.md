@@ -26,14 +26,21 @@ module.exports = {
 
 ## Usage
 
+Use the colors with tailwind classes like `bg-*`, `text-*`, `border-*`, etc...
+
+Code:
+
 ```html
-<!-- TODO -->
-<div class="">
-  <h1></h1>
-  <p>
-  </p>
-  <p>
-  </p>
-  <!-- ... -->
+<div className="bg-neutral-dark-ico border-neutral-dark-skate border-2 rounded p-5 grid grid-cols-3 gap-2">
+  <div className="bg-primary-main rounded h-20" />
+  <div className="bg-extend-reds-lipstick rounded h-20" />
+  <div className="bg-primary-greens-true rounded h-20" />
+  <div className="text-primary-light col-span-full font-bold">
+    I'm some blue text!
+  </div>
 </div>
 ```
+
+Result:
+
+![colors preview](./previews/colors.webp)
