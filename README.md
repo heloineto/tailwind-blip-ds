@@ -26,7 +26,11 @@ module.exports = {
 
 ## Usage
 
+### Colors
+
 Use the colors with tailwind classes like `bg-*`, `text-*`, `border-*`, etc...
+
+See the full list of colors [here](https://takenet.github.io/blip-ds/?path=/story/colors--all-colors).
 
 Code:
 
@@ -44,3 +48,11 @@ Code:
 Result:
 
 ![colors preview](./previews/colors.webp)
+
+### Typography
+
+TODO
+
+### Shadows
+
+TODO

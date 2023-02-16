@@ -1,7 +1,7 @@
 {
-  "name": "@tailwindcss/typography",
-  "version": "0.5.9",
-  "description": "A Tailwind CSS plugin for automatically styling plain HTML content with beautiful typographic defaults.",
+  "name": "tailwind-blip-ds",
+  "version": "1.0.3",
+  "description": "A Tailwind CSS plugin for the Blip Design System.",
   "main": "src/index.js",
   "types": "src/index.d.ts",
   "files": [
@@ -9,7 +9,7 @@
     "src/*.d.ts",
     "dist/"
   ],
-  "repository": "https://github.com/tailwindcss/typography",
+  "repository": "https://github.com/heloineto-take/tailwind-blip-ds",
   "license": "MIT",
   "publishConfig": {
     "access": "public"

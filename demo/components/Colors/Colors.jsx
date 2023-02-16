@@ -1,7 +1,7 @@
 import Color from './Color'
 import ColorsRow from './ColorsRow'
 
-const Colors = (props) => {
+const Colors = () => {
   return (
     <div className="w-[60rem] flex flex-col gap-6">
       <ColorsRow title="blues">

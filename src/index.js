@@ -55,6 +55,12 @@ module.exports = plugin(() => {}, {
           },
         ],
       },
+      boxShadow: {
+        paper: '0px 2px 8px rgba(7, 71, 166, 0.15)',
+        'paper-primary': '0px 10px 16px rgba(7, 71, 166, 0.12)',
+        'paper-secondary':
+          '0px 16px 20px rgba(7, 71, 166, 0.16), 0px 0px 2px rgba(7, 71, 166, 0.2)',
+      },
     },
   },
 })
